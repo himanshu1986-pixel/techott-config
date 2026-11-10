@@ -1,7 +1,8 @@
 {
   "serverUrl": "https://app.techott.store",
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 20,
+  "versionName": "1.0.19",
   "apkUrl": "https://app.techott.store/techott-client.apk",
   "message": ""
 }
+{"apkUrl":"https://app.techott.store/techott-client.apk","message":"","serverUrl":"https://app.techott.store","versionCode":20,"versionName":"1.0.19"}
